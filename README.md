@@ -51,8 +51,6 @@ Data may be processed and stored on servers operated by Firebase/Google in vario
 - Location: To save and use your location for matchmaking features.
 - Notifications: To send match updates and messages.
 - Photos/Camera: To upload and manage your profile image.
-- Microphone: For potential media features if enabled.
-- Contacts: For social features if enabled.
 You can manage these permissions in your device settings.
 
 ## Contact Us
